@@ -28,7 +28,7 @@ In this tutorial, we will use [IBM Cloud Pak for Data](https://www.ibm.com/produ
 
 After completing this tutorial, you will learn how to:
 
-* Upload data to [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data).
+* Upload data to Watson Studio 
 * Create an SPSS&reg; Modeler flow.
 * Use the SPSS tool to inspect data and glean insights.
 * Modify and prepare data for AI model creation using SPSS.
@@ -36,8 +36,7 @@ After completing this tutorial, you will learn how to:
 
 ## Prerequisites
 
-* [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
-* [SPSS Modeler Deployed on IBM Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_current/cpd/svc/spss/spss-install.html)
+* Login/Sign Up for IBM Cloud: https://ibm.biz/EasyModels
 
 ## Estimated time
 
