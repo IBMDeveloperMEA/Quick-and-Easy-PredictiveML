@@ -22,7 +22,7 @@ There are 3 steps to create your account on [IBM Cloud](https://cloud.ibm.com/re
 
 
 ## Workshop 
-In this tutorial, we will use [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data) to build a predictive machine learning model with [IBM SPSS Modeler](https://www.ibm.com/products/spss-modeler) and decide whether a bank customer will default on a loan. IBM Cloud Pak&reg; for Data is an interactive, collaborative, cloud-based environment that allows developers and data scientists to work collaboratively, gain insight from data and build machine learning models.
+In this tutorial, we will use Watson Studio to build a predictive machine learning model with [IBM SPSS Modeler](https://www.ibm.com/products/spss-modeler) and decide whether a bank customer will default on a loan. IBM Cloud Pak&reg; for Data is an interactive, collaborative, cloud-based environment that allows developers and data scientists to work collaboratively, gain insight from data and build machine learning models.
 
 ## Learning objectives
 
